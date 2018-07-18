@@ -1,5 +1,0 @@
-## Interface: 80000
-## Title: Blizzard Warboard UI
-## Secure: 1
-## LoadOnDemand: 1
-Blizzard_WarboardUI.xml
